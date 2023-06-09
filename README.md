@@ -1,6 +1,6 @@
 # Ứng dụng quản lý bãi đỗ xe.
-=============================
-C# WinForm.
+==============================
+C# WinForm
 
 1. Ứng dụng mình xây dựng sử dụng CSDL dựa trên file .text, mặc dù việc này khiến khả năng xử lý của dữ liệu sẽ không hiệu quả.
    Nhưng nó sẽ giúp mọi người dễ cài đặt và sử dụng hơn.
