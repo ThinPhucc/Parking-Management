@@ -1,4 +1,21 @@
-Ứng dụng quản lý bãi đỗ xe.
+Parking Management Application.
+==========================================
+C# + WinForm + Socket.
+
+1. The application I built uses a database based on the .text file, although this makes the processing of the data inefficient.
+But it will make it easier for everyone to install and use.
+
+2. The application currently only builds in LAN, based on IP Loopback.  
+You can change to another IP Server if you want at:  
+Server > Main  
+Admin > LoginForm.cs > GlobalConnect Class  
+Client > LoginForm.cs > GlobalConnect Class
+
+3. Account data and chat is located at: .\Server\bin\Debug\
+
+
+
+Ứng Dụng Quản Lý Bãi Đỗ Xe.
 =================================
 C# + WinForm + Socket.
 
